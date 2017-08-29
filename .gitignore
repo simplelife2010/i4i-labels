@@ -1,0 +1,19 @@
+﻿<!DOCTYPE HTML>
+<!DOCTYPE html PUBLIC "" ""><HTML data-dpmaxz-wbid="2781"><HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD>
+<BODY>
+<PRE>.idea
+node_modules
+jspm_packages
+npm-debug.log
+debug.log
+src/**/*.js
+!src/systemjs.config.extras.js
+!src/systemjs.config.js
+!src/systemjs-angular-loader.js
+*.js.map
+e2e/**/*.js
+e2e/**/*.js.map
+_test-output
+_temp
+</PRE></BODY></HTML>
